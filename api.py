@@ -96,7 +96,7 @@
 # app.run(port=5000, host='localhost', debug=True)
 
 '''
-​DESAFIO API músicas 🥇
+​DESAFIO API músicas 
 ### 1. Defnir o objetivo da API:
 Iremos montar uma api de músicas, onde deverá ser possível, consultar todas canções disponíveis, consultar uma canção individual, editar canções existentes e também excluir músicas existentes.
 ### 2. Qual será o URL base da API?
